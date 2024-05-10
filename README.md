@@ -31,3 +31,9 @@
  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
+
+<div>
+  <h2>Formação Acadêmica 🎓</h2> 
+    <p>💻 Técnico em Multimídia - SENAI Paulo Antônio Skaf - São Caetano do Sul SP </p> 
+    <p>👨‍💼 Jovem Aprendiz de Administração - Seal Telecom / Convergint - Barra Funda SP </p> 
+</div>
